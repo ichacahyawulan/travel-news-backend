@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voyagee-project",
+  "private_key_id": "3d5e21781986bae885ec5210d57bb5a9049ff38f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl0JmTWyKcJ1Ha\nr39itajM6CsV7C12QT94eig7I3sMjcMJzSFAtzFoJ3A4rZO1Y5j1xkrvJWaFrDG1\nVK6Idvjp2qn7VHcnXP24FVimx/B54iszQQrvVc55+1NF8DW+LJQMb8So6pThPQ6s\nj5NfWJOnodUpv02frCW7zod0CWHz0Z1dd7pC9W+CfeXj9imMg+w/vcsnm9KM0U6U\n0q+WpIx0vTMhF/U/QoULa0n9ELjf3HcCKR4ZidaEc7zGG2vhR3gGn5wmHD84pOZv\nr1mIXBoeNk0Zs6Aq6i1mVBUew+HTcoiPC3zk8GEKQEDMlrIMG1ByUQfSkjZmpplw\nbgI/kKtDAgMBAAECggEAGjsTKG/43CoONWGg7b0eHHg35KptkLEGuOjeN2jH/Pbq\nHUFRmtrAGqFui9DNtpqwZmT9krJgcxIH9Q8V4ymq+9enH0a/6L65tmbOFOg5PxbL\nzbpi3/S7iql7BWvYHKMRspv1yOD/N1iA20SFREaPaSvdPFLylSlW+MxVukIHuFm1\nw3pwMEoM0YYXucMb7/+Ddc8mv0Ni5QHjc8hs9Xy3OcIgLKQMJguyJFNUqYg8hVYc\ntW20rKG6JhY35bHa2PdW7uJMbPef0Mh0XToXPHCWXhzCRnPpts/azq2dlljM4zuz\nu6TWlM6UKbbf5CENADksyhwHAKmzaEcuuFIK69xivQKBgQDeMbnnXSKZwakicqCm\nYr1HvTrVFNKmtul+7iApD8/VUchTzaNoo82HS3nRHZ93CF+3kLV/u0YEJBAPmBy2\nBZjmRBgazxfaH+shRVm9/f/RHnZQf1tLobD4qBqCuxCrGZMIcTdbCNOFM89RKZes\nVR8dRF0+HFEVdmZoxsViO4+yvQKBgQC/CvHfIJYAkXw/MWi7BwW7rQEzU0q0Vq65\nE/PbI0p7Mi7joNYT4hG1zrjwWeIG2XWcTf7Ihb0H1ADO004rgpx8DLM0EgM6NTn+\ntPWg6QxlrKsyyRVY+aJ0f5gZx5WNXxOKdENd2++ZGUuZLPecgWK5GthD7En91qrD\nX5lokia1/wKBgCgqZwe631FaH7/5Zq8NNFgujd8M95Nph0YJt8iUciaGtSbpCnwU\n+EdXznqN11DGM79UKmsfqGWBO2IGRlJlKqGdd5oJC6/Di1alWbatnrvnvM2KaC+A\n2CPrB3fQZw/2/IxPIwmSy+HNXtG2KhPeA1TgEdbzeXjewV55aB7801olAoGAPaNx\nYJVp8GsAVH9DlDxyzBfIsF+qVb82Bn76ifS7/j21xTnKeIXTQv6cyuelNqKJANJl\nZxtHXzQ2woSIzx8IEDokw6MgKXKs8JJAQhePKWrpnawlWBzLHp1gXMj5ZrCLZHuY\nlLr2dkYkDxrkFTnluWWA64FcaisN05WPsJ6fIM8CgYAkRgNwGs/ENuP0iOo0lm+g\nkiYxlus3lKtUaon44NXvnUBxrRa8LUute2KFSw0FV2Ut13DcEdXkxtkUaOvfusAx\n1ygkuyfv4h8CW8W/CIy3D3rzgLfczWKTpAVwi8aKczJXG9T8snW8ziPSOrkeFynw\nAQFZQK2QHgZkTmJyvAqN9w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-analytics@voyagee-project.iam.gserviceaccount.com",
+  "client_id": "109747906457813730222",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-analytics%40voyagee-project.iam.gserviceaccount.com"
+}
